@@ -1,0 +1,38 @@
+1. Dataset de Vehículos Eléctricos (Gráfico de Barras - Distribución por Marca)
+Análisis: Este gráfico muestra la distribución de vehículos eléctricos por marca. 
+Las marcas de automóviles con más vehículos eléctricos registrados incluyen Nissan, Chevrolet, y Tesla, 
+que son algunos de los fabricantes líderes en el mercado de autos eléctricos. Tesla domina el mercado, 
+lo que refleja su liderazgo en la producción de vehículos eléctricos, seguido por Nissan y Chevrolet, 
+que también tienen modelos populares en este segmento, como el Nissan Leaf y el Chevrolet Bolt. 
+
+Las marcas con menos vehículos eléctricos registrados probablemente tengan menos 
+modelos eléctricos disponibles o están en una etapa más temprana de adopción.
+
+Este gráfico indica las tendencias del mercado de vehículos eléctricos en términos de adopción por marca,
+ mostrando cómo Tesla, Nissan y Chevrolet han liderado la transición hacia la electrificación.
+
+-----------------------------------------------------------------------------------------------------
+
+2. Dataset de Chipotle Locations (Gráfico Circular - Distribución de Restaurantes por Estado)
+Análisis: Este gráfico muestra la distribución de los restaurantes Chipotle en los Estados Unidos por estado. 
+California tiene la mayor proporción de restaurantes Chipotle (16%), seguida por Texas (8.6%) y Ohio (7.3%).
+ Esto refleja la estrategia de expansión de Chipotle, que se ha enfocado en áreas urbanas con alta densidad 
+ de población, comenzando en la costa oeste de Estados Unidos.
+
+Estados como New York, Illinois, y Florida también tienen una alta densidad de restaurantes. 
+Los estados con menos presencia de Chipotle pueden ser áreas rurales o menos urbanizadas, 
+donde la demanda de restaurantes de comida rápida no es tan alta o donde la marca aún no ha expandido 
+significativamente su presencia.
+
+------------------------------------------------------------------------------------------------------
+
+3. Dataset de Nutritional Facts (Gráfico de Líneas - Calorías por Alimento)
+Análisis: El gráfico de líneas muestra la cantidad de calorías de diferentes alimentos ordenados de mayor a menor.
+ Los alimentos con más calorías tienden a ser aquellos ricos en grasas y carbohidratos, como la mantequilla, 
+ aceites y margarinas, que están en la parte superior del gráfico. Alimentos como la leche y algunos productos 
+ cárnicos se encuentran en el rango medio, mientras que las frutas y verduras tienden a tener menos calorías.
+
+Este gráfico es útil para identificar alimentos que contribuyen más al contenido calórico de una dieta, 
+lo que puede ser útil para planificar dietas saludables y equilibradas. Los alimentos con alto contenido 
+calórico deben ser consumidos con moderación, mientras que los alimentos con menos calorías son ideales para 
+quienes buscan una dieta baja en calorías.
