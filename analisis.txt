@@ -1,15 +1,17 @@
-1. Dataset de Vehículos Eléctricos (Gráfico de Barras - Distribución por Marca)
-Análisis: Este gráfico muestra la distribución de vehículos eléctricos por marca. 
-Las marcas de automóviles con más vehículos eléctricos registrados incluyen Nissan, Chevrolet, y Tesla, 
-que son algunos de los fabricantes líderes en el mercado de autos eléctricos. Tesla domina el mercado, 
-lo que refleja su liderazgo en la producción de vehículos eléctricos, seguido por Nissan y Chevrolet, 
-que también tienen modelos populares en este segmento, como el Nissan Leaf y el Chevrolet Bolt. 
+1. cantidad de personas en el dataset clasificadas según si tienen o no diabetes, 
+basado en la columna Outcome. Los dos grupos representados son:
 
-Las marcas con menos vehículos eléctricos registrados probablemente tengan menos 
-modelos eléctricos disponibles o están en una etapa más temprana de adopción.
+Personas sin diabetes (Outcome = 0): Este grupo corresponde a las personas que no tienen diabetes.
+Personas con diabetes (Outcome = 1): Este grupo incluye a las personas que han sido diagnosticadas con diabetes.
+Al observar el gráfico, podemos analizar lo siguiente:
 
-Este gráfico indica las tendencias del mercado de vehículos eléctricos en términos de adopción por marca,
- mostrando cómo Tesla, Nissan y Chevrolet han liderado la transición hacia la electrificación.
+Comparación de los grupos: Si el número de barras en cada grupo es muy diferente, podemos inferir cuál grupo predomina en la muestra. 
+Por ejemplo, si hay más personas sin diabetes que con diabetes, el gráfico lo reflejará claramente, lo que puede darnos una idea sobre la prevalencia de la diabetes en esta muestra de datos.
+
+Relación entre los dos resultados: La proporción entre los dos grupos es relevante para comprender cuán frecuente es la diabetes en la población estudiada. Si ambos grupos son similares en tamaño, podríamos decir que el riesgo de diabetes es considerablemente alto en esta muestra. Si el grupo de personas sin diabetes es mucho mayor, podría significar que la incidencia de la enfermedad es más baja en la 
+muestra de datos analizada.
+
+Uso en estudios médicos: Este tipo de gráficos puede ayudar a los investigadores y profesionales de la salud a identificar la proporción de personas afectadas por la diabetes en una población determinada, lo que podría llevar a decisiones más informadas en términos de prevención, diagnóstico y tratamiento.
 
 -----------------------------------------------------------------------------------------------------
 
