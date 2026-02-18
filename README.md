@@ -1,4 +1,15 @@
-Laboratorio 2 Computo 2 
+Análisis de Datos con Python
 
-Integrante 1: [Nestor Enrique Juarro Quintanilla SMSS197022 ]
-Integrante 2: [Rubia Areli Alvarenga de Mendoza SMSS026524].
+Proyecto de análisis exploratorio de datos utilizando diferentes datasets (diabetes, nutrición, ventas).
+
+Tecnologías utilizadas
+
+Python
+
+Pandas
+
+CSV datasets
+
+Objetivo
+
+Aplicar técnicas básicas de análisis de datos, manipulación de archivos CSV y procesamiento de información utilizando Python.
